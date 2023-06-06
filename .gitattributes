@@ -1,2 +1,3 @@
 
-*.yaml linguist-language=java
+*.yaml linguist-language=Java
+*.yml linguist-language=Java
