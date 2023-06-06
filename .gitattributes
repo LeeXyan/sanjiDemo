@@ -1,3 +1,6 @@
 
 *.yaml linguist-language=Java
 *.yml linguist-language=Java
+*.js linguist-language=java
+*.css linguist-language=java
+*.html linguist-language=java
